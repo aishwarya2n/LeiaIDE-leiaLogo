@@ -126,7 +126,7 @@
    
    //add Text
     addTextMenu({
-      text: "Menu 1",
+      text: "Aishwarya",
       name: "menu1",
       positionX: -5,
       positionY: 0,
